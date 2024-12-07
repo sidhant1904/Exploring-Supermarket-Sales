@@ -5,9 +5,9 @@ The analysis reveals that the Food and Beverage sector dominates sales, with Gro
 
 Team Members:
 
-1.Sidhant Sidhant
-2.Pushpraj Singh
-3.Manan Goel
-4.Lujia Yu
-5.Yixi Yu
-6.Fangzhou Zheng
+Sidhant Sidhant
+,Pushpraj Singh
+,Manan Goel
+,Lujia Yu
+,Yixi Yu
+,Fangzhou Zheng
