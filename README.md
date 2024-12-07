@@ -4,6 +4,7 @@ This project aims to identify the key drivers of supermarket sales in Ecuador an
 The analysis reveals that the Food and Beverage sector dominates sales, with Grocery and Beverages having the highest demand. Within this segment, Grocery alone accounts for nearly 30% of total unit sales, highlighting its importance as a critical revenue driver. Promotions are particularly impactful for fresh items and household goods, driving significant sales uplift. For example, product categories like hardware and food & beverages saw a sales increase of over 80%, while promotions for media products negatively impacted sales, suggesting the need for careful targeting. Store Types A and D contribute significantly to sales, accounting for over 65% of total sales combined. These stores perform exceptionally well in urban clusters like Quito, which also ranks as the highest-selling city across all metrics. Sales peak in December and decline in October, with notable spikes during holidays and events. For instance, the 2016 earthquake led to increased demand for essential products like food and beverages, emphasizing the importance of agile inventory management during external disruptions. Additionally, the correlation tool reveals an inverse relationship between oil prices and sales volume, indicating that rising oil prices reduce purchasing power and transaction volumes.
 
 Team Members
+
 1.Sidhant Sidhant
 2.Pushpraj Singh
 3.Manan Goel
